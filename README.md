@@ -1,2 +1,4 @@
-# davidmeng_phpcrudecrud
+# Example LAMP Stack Application
+
+#PHP Crude CRUD App
 INET4031 System Admin Dynamic Web Application Code
